@@ -14,7 +14,8 @@ TopHap+ identifies clones and infers clone phylogeny from single-cell sequencing
 numpy, 
 biopython, 
 SciPy, 
-pydot
+pydot,
+pandas
 
  Note: If the installation of these python packages is not easy, you may want to use Anaconda for Python 3 (https://www.anaconda.com/distribution/). Or you can try python3 -m pip install [package name].
 * MEGA (https://www.megasoftware.net/)
